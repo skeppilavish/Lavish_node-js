@@ -76,7 +76,7 @@ const readNote=(title)=>{
     if(infile)
     {
         console.log(chalk.blue.bold.italic(infile.title))
-        console.log( infile.body)
+        console.log(infile.body)
         
     }
     else{

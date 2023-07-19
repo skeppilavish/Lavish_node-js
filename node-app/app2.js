@@ -1,5 +1,5 @@
 const msg =require('./notes2.js')  // kyunki import use kr rhe hai ab , require se 'chalk' accessible nhi tha
-const chalk= require('chalk')
+const chalk= require('chalk/index.js')
 
 
 
